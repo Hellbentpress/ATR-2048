@@ -1,4 +1,4 @@
 ATR-2048
 ========
 
-A Pl;ace TO Play
+A Place TO Play
